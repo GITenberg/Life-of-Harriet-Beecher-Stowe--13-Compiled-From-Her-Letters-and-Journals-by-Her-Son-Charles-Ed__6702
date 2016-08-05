@@ -1,0 +1,48 @@
+_repo: Life-of-Harriet-Beecher-Stowe--13-Compiled-From-Her-Letters-and-Journals-by-Her-Son-Charles-Ed__6702
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Stowe, Charles Edward
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '2164'
+    url: http://www.gutenberg.org/2009/agents/2164
+covers:
+- cover_type: archival
+  image_path: 6702/6702-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6702'
+language: en
+production_note: "Produced by Steve Schulze, Charles Franks and the Online Distributed\
+  \ Proofreading Team.\r\nThis file was produced from images generously made available\
+  \ by the CWRU Preservation Department Digital Library"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stowe, Harriet Beecher, 1811-1896'
+- !lcc 'PS'
+- !lcsh 'Women abolitionists -- United States -- Biography'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
+title: "Life of Harriet Beecher Stowe\r\nCompiled From Her Letters and Journals by\
+  \ Her Son Charles Edward Stowe"
+url: http://www.gutenberg.org/ebooks/6702
