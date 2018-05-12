@@ -1,5 +1,5 @@
 _repo: Life-of-Harriet-Beecher-Stowe--13-Compiled-From-Her-Letters-and-Journals-by-Her-Son-Charles-Ed__6702
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Stowe, Charles Edward
@@ -9,9 +9,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/2164
 covers:
 - cover_type: archival
-  image_path: 6702/6702-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 6702-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -25,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6702#Life-of-Harriet-Beecher-Stowe--13-Compiled-From-Her-Letters-and-Journals-by-Her-Son-Charles-Ed_
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
